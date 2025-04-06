@@ -1,0 +1,68 @@
+Comments: 
+ Single line (#comment)
+ Multi line ('''vhhvwsvjhwdhvwjbvwfv
+wfvfvwfgwvwdfv'''
+
+Conditional Statements: 
+if condition:
+      Body of If (It only execute if the condition is True)
+else:
+      Body of else (It only execute if the condition is False)
+
+Task 3:
+	Take an Integer as an Input from the User and print if the Integer is Even or Odd. (HINT: if the reminder by 2 is 0 the value is even else it is odd)
+
+Task 4: Store User information in variables including password take email and password as an input from the user if email and password is matched than print complete details in the given format else print password not matched.
+	Name:  Yasir Nawaz
+	Phone:  92300004000
+	Age:  25
+	Email:  abcd@gmail.com
+	Address:  jhkhgjvgashgfhdgsghvf
+
+Nested If:
+	if condition:
+		#body of outer if
+		if condition:
+			#body of inner if
+		else:
+			#body of inner else
+	else:
+		#body of outer else
+
+
+Lists:									
+	Listname = [value1,value2,...]		#list deceleration
+	
+	listname[index]				#list item calling 
+
+Tuple:
+	tuplename = (value1,value2,...)		#tuple deceleration
+	
+	tuplename[index]			#tuple item calling 
+	
+	-Tuple is similar to list but it could not be changed or modified.
+
+Set: 
+	Setname = {value1,value2,...}		#Set deceleration
+	
+
+	-Set is similar to list but it could not support similar elements like {5,5}.
+
+
+Multidimension List:
+	- List of Lists
+
+
+
+Task 5:
+	Create a console based vehicle showroom application in which at least 5 vehicle companies are registered and every company have 5 cars and every car has detail (price, name, model, year).
+Create an application who takes company name as an input ad shows its cars as a Manu than it ask for the car name as an input and shows the complete details as an output.
+
+
+
+	
+
+
+
+
+		

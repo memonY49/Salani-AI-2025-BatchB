@@ -42,6 +42,12 @@ Assignment Operators:
   2. And
   3. Not
 
+Membership Operators
+In
+Not In
  
+Identity Operators
+Is
+Is Not
 	
  
