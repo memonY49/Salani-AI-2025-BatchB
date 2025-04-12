@@ -1,0 +1,26 @@
+List Functions:
+	append( Element to add)	Adds an element at the end of the list
+	clear()			Removes all the elements from the list
+	copy()			Returns a copy of the list
+	count(Element)		Returns the number of elements with the specified value
+	extend()		Add the elements of a list (or any iterable), to the end of the current list
+	index(Element)		Returns the index of the first element with the specified value
+	insert(Index, Element)	Adds an element at the specified position
+	pop()			Removes the element at the last element
+	remove(Element)		Removes the item with the specified value
+	reverse()		Reverses the order of the list
+	sort()			Sorts the list
+
+
+Function: 
+	Function_name( Parameters1, p2,p3,p4, ... )
+
+
+Dictionaries: 
+	
+	{"Name":"Yasir","Phone":34728877728,"Email":"abc@gmail.com","Add":"jgcjasfdh"}
+
+Dict Functions:
+	Keys()		Returns a list of all keys.
+	Values()	Returns a list of all values.
+	items()		Returns a lists of key and value both.
