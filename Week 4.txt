@@ -24,3 +24,14 @@ Dict Functions:
 	Keys()		Returns a list of all keys.
 	Values()	Returns a list of all values.
 	items()		Returns a lists of key and value both.
+
+Length Funtion:
+	len()
+
+
+
+
+
+
+
+

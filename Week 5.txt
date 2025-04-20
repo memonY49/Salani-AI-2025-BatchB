@@ -1,0 +1,61 @@
+Loop:
+
+  - For Loop:
+		for counter in range(lower, upper):
+			body of for loop
+
+  - While Loop
+		Initialize your count variable
+		While Condition:
+			body of while loop
+			Increment/decrement  
+Break:
+	break keyword is used to stop iterations/loop
+
+Print Function:
+	- sep
+	- end
+
+Else with LOOP:
+
+	for :
+		body of for
+        else:
+		body of else
+error handling:
+	Try:
+		- Try clause is used when there is a chance of an user sided logical error.
+	except:
+		- Except clause is used to handle the above error and provide a response for the user about the error.
+
+functions:
+	Pre-defined functions:
+		Those functions which are already defined from python (eg: print())
+	User-defined functions:	 
+		- It is a block of code which is separated just to perform specific task.
+		- It is used to increase reusability of code.
+	
+		To initialize a user-defined function :
+			- 'def' keyword is used. 
+			
+			def functionName (parameter1,parameter2,...):
+				body of a user-defined function
+		return keyword:
+			- return keyword is used to get some results from a function return keyword could be called once inside a function
+		Parameters:
+			Required Parameter:
+				- When there is no default value for that parameter.
+			Optional Parameter:
+				- When there is a default value available for that parameter.
+	
+
+
+
+
+
+
+
+
+
+
+
